@@ -29,18 +29,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width = "80"> 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width = "80">
 
-<p align = "left">I'm always looking for opportunities to grow and gain more experience in this field.</p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200">
+<p align = "center">I'm always looking for opportunities to grow and gain more experience in this field.</p>
+<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200">
 </div>
+
 ## Soft skills
 
-<div  align = "center">
 - Responsability
 - Continuos learning 
 - Critical thinking 
 - Adaptability
 - Analytical thinking
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca"
-</div>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width = "200">
+
 
 
