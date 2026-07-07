@@ -32,6 +32,7 @@
 <p align = "center">I'm always looking for opportunities to grow and gain more experience in this field.</p>
 <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200">
 </div>
+
 ## Hard skills
 - MySQL
 - Python
@@ -39,6 +40,7 @@
 - VSCode
 - Bash
 - Java
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" />
@@ -47,6 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100"/>
 </div>
+
 ## Soft skills
 - Responsability
 - Continuos learning 
