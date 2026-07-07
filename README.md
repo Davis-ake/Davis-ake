@@ -1,5 +1,5 @@
 ## Hi visitor 😸
-```ascii
+
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -20,6 +20,8 @@
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
-I'm David a student passionate about cybersecurity, networking, and software development. I enjoy building projects that help me learn new technologies and strengthen my problem-solving skills.
-I'm always looking for opportunities to grow and gain more experience in this field.
+<!-- SEPARADOR -->
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<p align = "center">I'm David a student passionate about cybersecurity, networking, and software development. I enjoy building projects that help me learn new technologies and strengthen my problem-solving skills.</p> 
+
+<p align = "left">I'm always looking for opportunities to grow and gain more experience in this field.</p>
