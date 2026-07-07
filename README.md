@@ -1,4 +1,6 @@
 # Hi, visitor 😸
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 ```ascii
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -25,22 +27,23 @@
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 <div align = "center">
 <p align = "center">I'm David a student passionate about cybersecurity, networking, and software development. I enjoy building projects that help me learn new technologies and strengthen my problem-solving skills.</p> 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width = "80">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width = "80"> 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width = "80">
+
 
 <p align = "center">I'm always looking for opportunities to grow and gain more experience in this field.</p>
 <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200">
 </div>
-
+## Hard skills
+- MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 ## Soft skills
-
 - Responsability
 - Continuos learning 
 - Critical thinking 
 - Adaptability
 - Analytical thinking
 <img align="center" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width = "200">
+
+
 
 
 
