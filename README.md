@@ -1,4 +1,4 @@
-## Hi, visitor 😸
+# Hi, visitor 😸
 ```ascii
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -40,7 +40,7 @@
 - Critical thinking 
 - Adaptability
 - Analytical thinking
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width = "200">
+<img align="center" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width = "200">
 
 
 
